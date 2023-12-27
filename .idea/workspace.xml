@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b826ee67-1a64-45c6-8422-ea5f2bc77513" name="변경" comment="feat: 버전 설정 텍스트 파일을 추가한다.">
+    <list default="true" id="b826ee67-1a64-45c6-8422-ea5f2bc77513" name="변경" comment="feat: last indent를 추가한다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +75,7 @@
       <workItem from="1703571978140" duration="2024000" />
       <workItem from="1703651217311" duration="4692000" />
       <workItem from="1703692764224" duration="612000" />
-      <workItem from="1703695800257" duration="763000" />
+      <workItem from="1703695800257" duration="2033000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Config 프로젝트를 추가한다.">
       <option name="closed" value="true" />
@@ -147,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703696151312</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: djlint 및 black을 설정한다.">
+      <option name="closed" value="true" />
+      <created>1703696584450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703696584450</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: last indent를 추가한다.">
+      <option name="closed" value="true" />
+      <created>1703696595970</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703696595970</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +181,9 @@
     <MESSAGE value="refactor: 인터프리터를 로컬로 설정한다." />
     <MESSAGE value="feat: 깃 이그노어 목록을 추가한다." />
     <MESSAGE value="feat: 버전 설정 텍스트 파일을 추가한다." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 버전 설정 텍스트 파일을 추가한다." />
+    <MESSAGE value="feat: djlint 및 black을 설정한다." />
+    <MESSAGE value="feat: last indent를 추가한다." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: last indent를 추가한다." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_django_example$urls.coverage" NAME="urls 커버리지 결과" MODIFIED="1703513368042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />

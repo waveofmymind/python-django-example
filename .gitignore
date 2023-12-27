@@ -271,5 +271,6 @@ __pycache__
 .idea
 venv
 .vscode
+.env*
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
