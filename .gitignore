@@ -265,5 +265,11 @@ pyrightconfig.json
 
 # custom
 /config/settings.py
+__pycache__
+/mediafiles
+/staticfiles
+.idea
+venv
+.vscode
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
