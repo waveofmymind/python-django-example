@@ -268,7 +268,7 @@ pyrightconfig.json
 __pycache__
 /mediafiles
 /staticfiles
-.idea
+.idea/**
 venv
 .vscode
 .env*
